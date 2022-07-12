@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GregJarzabek
+- 👀 I’m interested in photography, learning human/computer languages and piano.
+- 🌱 I’m currently learning full-stack web dev at Concordia University.
+- 💞️ I’m looking to collaborate on apps and accessibility tools for neurodivergent people (autism, ADHD).
+- 📫 How to reach me: gregjarzabekdev@gmail.com
